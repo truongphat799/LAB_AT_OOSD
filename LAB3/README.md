@@ -3,7 +3,7 @@
 ## 1. Thông tin sinh viên
 
 * **Họ và tên:** Trương Gia Phát
-* **MSSV:** 
+* **MSSV:** 1250080139
 * **Môn học:** Phương pháp phát triển phần mềm hướng đối tượng
 * **Tên bài Lab:** LAB 3
 * **Ngôn ngữ:** C#
